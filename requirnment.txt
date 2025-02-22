@@ -1,0 +1,12 @@
+langchain
+openai
+jupyter
+pandas
+numpy
+python-dotenv
+langchain_community
+pypdf
+arxiv
+pymupdf
+
+wikipedia
