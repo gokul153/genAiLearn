@@ -8,5 +8,6 @@ langchain_community
 pypdf
 arxiv
 pymupdf
-
+langchain-text-splitters
 wikipedia
+langchain-openai
