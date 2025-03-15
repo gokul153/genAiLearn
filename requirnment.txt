@@ -11,3 +11,4 @@ pymupdf
 langchain-text-splitters
 wikipedia
 langchain-openai
+ollama
