@@ -12,3 +12,5 @@ langchain-text-splitters
 wikipedia
 langchain-openai
 ollama
+langchain-openai
+langchain_groq
